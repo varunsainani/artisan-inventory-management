@@ -1,0 +1,2 @@
+PRODca73c3ca|ARTfbeb1c74|wooden table|a wooden study table|3|Approved|2025-05-19T07:47:46.713087968
+PROD1ff5211e|ARTfbeb1c74|wooden chair|a wooden chair for sitting or studying|3|Approved|2025-05-19T07:48:22.297913744
